@@ -8,6 +8,7 @@ Built with vue 3.
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
+![screenshot](./screenshot.png)
 
 ## Installation
 * Clone the  repo.
